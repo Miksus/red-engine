@@ -2,6 +2,14 @@
 Version history
 ===============
 
+**NOTE:** `Red Engine has been renamed as Rocketry <https://rocketry.readthedocs.io/>`_
+
+.. warning::
+
+    This documentation is out of date. The project continues under:
+    https://rocketry.readthedocs.io
+
+
 - ``2.0.1``
 
     - Fix: ``RedEngine(logger_repo=...)`` now does not remove previous handlers
