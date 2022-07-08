@@ -1,0 +1,7 @@
+# Testing
+pytest
+pytest-cov
+
+# Package requirements
+pandas
+redbird>=0.5.0

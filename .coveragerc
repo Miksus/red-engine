@@ -1,0 +1,30 @@
+[run]
+source = redengine
+branch = False
+omit = 
+    test/*
+    _version.py
+
+data_file = cov_data/.coverage
+
+[report]
+
+omit = 
+    redengine/test/*
+    redengine/_version.py
+    redengine/__main__.py
+
+# Regexes for lines to exclude from consideration
+exclude_lines =
+    pragma: no cover
+
+    # Don't complain about abstract methods, they aren't run:
+    @(abc\.)?abstractmethod
+
+    # Ignore type checking imports
+    if TYPE_CHECKING
+
+ignore_errors = True
+
+[html]
+directory = htmlcov

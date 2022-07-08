@@ -1,0 +1,4 @@
+# Minimum requirements
+pandas
+pydantic
+redbird>=0.5.0

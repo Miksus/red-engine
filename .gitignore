@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*pyx
+
+# Build & packaging
+build/*
+dist/*
+*egg-info/*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+prototype*
+
+# Scrapy stuff:
+.scrapy
+
+draft/
+private/
+
+# Environments
+.env
+.venv
+env/
+env_linux/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+
+# Packaging
+build/
+dist/
+
+# Prototyping files & manual testing
+proto/
+
+# Data & logs
+*.csv
+
+# Private configurations
+private.yaml
+
+# Some other random stuff
+bash.exe.stackdump
+
+# Sphinx documentation
+docs/_build/
+
+# tox
+.tox/
+
+# Coverage
+cov_data/
