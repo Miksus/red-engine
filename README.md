@@ -2,6 +2,11 @@
 # <span style="color:red">Red</span> Engine
 > Powering your Python Apps
 
+
+## NOTE
+Red Engine has been renamed as Rocketry:
+https://github.com/Miksus/rocketry
+
 -----------------
 
 [![Pypi version](https://badgen.net/pypi/v/redengine)](https://pypi.org/project/redengine/)
