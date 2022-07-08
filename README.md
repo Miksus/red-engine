@@ -3,9 +3,7 @@
 > Powering your Python Apps
 
 
-## NOTE
-Red Engine has been renamed as Rocketry:
-https://github.com/Miksus/rocketry
+## NOTE: Red Engine has been renamed as Rocketry: https://github.com/Miksus/rocketry
 
 -----------------
 

@@ -18,6 +18,14 @@
 
 **NOTE:** `Red Engine has been renamed as Rocketry <https://rocketry.readthedocs.io/>`_
 
+.. warning::
+
+    This documentation is out of date. The project continues under:
+    https://rocketry.readthedocs.io
+
+.. raw:: html
+
+   <hr>
 
 No time to read? :ref:`Get started then. <getting-started>`
 
